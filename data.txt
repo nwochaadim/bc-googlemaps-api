@@ -1,0 +1,49 @@
+Coordinates of Starting Point: Latitude= 9.1426838, Longitude=7.4272554
+Coordinates of EndPoint: Latitude= 6.3895293, Longitude=3.3659058
+Distance Apart: 746 km 
+Steps involved in getting to destination: 
+Step 0, Latitude: 9.0794826, Longitude: 7.3991692, Distance: 0.3 km 
+Step 1, Latitude: 9.0794, Longitude: 7.4002797, Distance: 0.1 km 
+Step 2, Latitude: 9.0803844, Longitude: 7.4006536, Distance: 0.1 km 
+Step 3, Latitude: 9.0750603, Longitude: 7.4087816, Distance: 1.1 km 
+Step 4, Latitude: 9.1107215, Longitude: 7.4269138, Distance: 5.0 km 
+Step 5, Latitude: 9.1189685, Longitude: 7.4273049, Distance: 0.9 km 
+Step 6, Latitude: 9.1188315, Longitude: 7.4171455, Distance: 1.2 km 
+Step 7, Latitude: 9.093319, Longitude: 7.2181544, Distance: 24.8 km 
+Step 8, Latitude: 7.7637647, Longitude: 6.5107298, Distance: 193 km 
+Step 9, Latitude: 7.6348078, Longitude: 6.452086, Distance: 16.4 km 
+Step 10, Latitude: 7.5034626, Longitude: 6.4314269, Distance: 14.9 km 
+Step 11, Latitude: 7.3583002, Longitude: 6.3833373, Distance: 17.1 km 
+Step 12, Latitude: 6.6374417, Longitude: 5.980135, Distance: 111 km 
+Step 13, Latitude: 6.6139939, Longitude: 5.9788667, Distance: 2.9 km 
+Step 14, Latitude: 6.3892771, Longitude: 5.7332377, Distance: 38.4 km 
+Step 15, Latitude: 6.3905466, Longitude: 5.7306261, Distance: 0.3 km 
+Step 16, Latitude: 6.4612021, Longitude: 5.5935876, Distance: 17.9 km 
+Step 17, Latitude: 6.8833456, Longitude: 3.7294736, Distance: 225 km 
+Step 18, Latitude: 6.8572785, Longitude: 3.6302143, Distance: 11.5 km 
+Step 19, Latitude: 6.8684942, Longitude: 3.6019648, Distance: 3.6 km 
+Step 20, Latitude: 6.8811298, Longitude: 3.5816088, Distance: 2.6 km 
+Step 21, Latitude: 6.8834882, Longitude: 3.577883, Distance: 0.5 km 
+Step 22, Latitude: 6.6299383, Longitude: 3.3645321, Distance: 41.4 km 
+Step 23, Latitude: 6.5964609, Longitude: 3.3803344, Distance: 4.3 km 
+Step 24, Latitude: 6.5522637, Longitude: 3.3966368, Distance: 5.6 km 
+Step 25, Latitude: 6.5505875, Longitude: 3.394398, Distance: 0.3 km 
+Step 26, Latitude: 6.5502541, Longitude: 3.3924421, Distance: 0.2 km 
+Step 27, Latitude: 6.5512324, Longitude: 3.3916989, Distance: 0.3 km 
+Step 28, Latitude: 6.5514747, Longitude: 3.3921242, Distance: 54 m 
+Step 29, Latitude: 6.5476555, Longitude: 3.3945991, Distance: 0.5 km 
+Step 30, Latitude: 6.5439696, Longitude: 3.3939231, Distance: 0.4 km 
+Step 31, Latitude: 6.5398767, Longitude: 3.3926764, Distance: 0.5 km 
+Step 32, Latitude: 6.5405396, Longitude: 3.3898758, Distance: 0.3 km 
+Step 33, Latitude: 6.5382592, Longitude: 3.387432, Distance: 0.4 km 
+Step 34, Latitude: 6.5376615, Longitude: 3.3872407, Distance: 71 m 
+Step 35, Latitude: 6.5376095, Longitude: 3.386003, Distance: 0.1 km 
+Step 36, Latitude: 6.5347458, Longitude: 3.3867337, Distance: 0.3 km 
+Step 37, Latitude: 6.5334194, Longitude: 3.382972, Distance: 0.5 km 
+Step 38, Latitude: 6.5305199, Longitude: 3.3819713, Distance: 0.4 km 
+Step 39, Latitude: 6.5299938, Longitude: 3.3823141, Distance: 70 m 
+Step 40, Latitude: 6.5272241, Longitude: 3.3808147, Distance: 0.4 km 
+Step 41, Latitude: 6.5265785, Longitude: 3.3809055, Distance: 73 m 
+Step 42, Latitude: 6.5264893, Longitude: 3.3796402, Distance: 0.1 km 
+Step 43, Latitude: 6.5253538, Longitude: 3.378545, Distance: 0.2 km 
+Step 44, Latitude: 6.5243587, Longitude: 3.3791616, Distance: 0.1 km 
